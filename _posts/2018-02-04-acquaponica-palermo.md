@@ -14,4 +14,4 @@ Passeranno due anni da quella prima volta, in cui ci si limitò solo a spiegare 
 
 La progettazione e la realizzazione furono ad opera dell'Ing. Benanti che trovò valida e preziosa sponda nel Presidente della Cooperativa Empedocle Gianni Benedetto "Beno" Biundo.
 
-Grazie alla sua guida, negli anni successivi, fino alla sua scomparsa, l'acquaponica ni Sicilia ha trovato in Palermo un piccolo punto di riferimento per l'informazione tecnologica in Sicilia.
+Grazie alla sua guida, negli anni successivi, fino alla sua scomparsa, l'acquaponica in Sicilia ha trovato in Palermo un piccolo punto di riferimento per l'informazione tecnologica in Sicilia.

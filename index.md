@@ -4,3 +4,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+![Bumina](https://raw.githubusercontent.com/aquaponicspmo/blog/master/img/benanti-acquaponica.jpg)
