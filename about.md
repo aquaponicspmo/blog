@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+![Logo-AquaponicsPMO](https://raw.githubusercontent.com/aquaponicspmo/blog/master/img/logo.png)
 
 
-[jekyll-organization]: https://github.com/jekyll
+AquaponicsPMO è un piccola realtà di ricerca e sviluppo di Palermo che ha lo scopo di progettare e ricercare nuove soluzioni in ambito acquaponico.
+
+Perseguiamo questo scopo progettando piccoli impianti domestici modulari e scalabili che abbinano design e IoT.
+
+Per maggiori informazioni visita il nostro [sito web](http://www.aquaponicspmo.it/).
