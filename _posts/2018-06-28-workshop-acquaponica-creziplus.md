@@ -78,7 +78,7 @@ Ha realizzato alcuni impianti domestici e da giardino e redatto piani per il fin
 Supporto Marketing - Marco Lombardo
 Consulente su Marketing e Open Source, è il fondatore dell’associazione Industria Italiana del Software Libero.
 
-[AquaponicsPMO](www.aquaponicspmo.it )
+[AquaponicsPMO](http://www.aquaponicspmo.it)
  è un piccola realtà di Palermo che ha lo scopo di ricercare e progettare nuove soluzioni in ambito acquaponico.
 I nostri valori sono il miglioramento socio - ambientale e l'Openness applicati all'agricoltura urbana ed al recupero dell'ambiente urbano.
 
