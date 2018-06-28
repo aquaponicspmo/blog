@@ -62,6 +62,7 @@ altre tipologie di impianti
 5. Domande e Risposte
 
 La quota di iscrizione al workshop è di 30 €
+
 Per Info e iscrizioni scrivere a:
 
 info@creziplus.it
