@@ -44,23 +44,13 @@ Giovedi 12 luglio 2018
 
 Programma: 
 
-1. Le basi dell’acquaponica
-Il ciclo
-Le differenze tra Acquaponica, Idroponica, Acquacoltura e IMTA
-Utilizzo in ambito urbano dell’Acquaponica
+1. Le basi dell’acquaponica: Il ciclo, le differenze tra Acquaponica, idroponica, acquacoltura e IMTA; utilizzo in ambito urbano dell’Acquaponica
 
-2. Riferimenti on line
-Il manuale della #FAO
-BackyardAquaponics
-Aquaguide
+2. Riferimenti on line: Il manuale della #FAO, BackyardAquaponics, Aquaguide
 
-3. La bumina
-Storia
-Fasi costruttive della Bumina
-Assemblaggio di un mini impianto di prova (campana venturi)
+3. La bumina: Storia, fasi costruttive della Bumina, assemblaggio di un mini impianto di prova (campana venturi)
 
-4. Esempi costruttivi
-altre tipologie di impianti
+4. Esempi costruttivi: altre tipologie di impianti
 
 5. Domande e Risposte
 
