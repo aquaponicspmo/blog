@@ -22,7 +22,10 @@ Hai curiosità e passione per la scienza ed una manualità artigianale?
 Se si, questo workshop di introduzione all’acquaponica è per te!
 
 L' acquaponica è una forma di agricoltura mista ad allevamento ecosostenibile.
-L'acquaponica è una combinazione tra una coltivazione idroponica e l'acquacoltura al fine di ottenere un ambiente simbiotico. In un sistema acquaponico, l’acqua dalle vasche dei pesci viene pompata ai letti di crescita delle piante, dove viene fitodepurata, e poi tornare di nuovo al pesce.
+L'acquaponica è una combinazione tra una coltivazione idroponica e l'acquacoltura al fine di ottenere un ambiente simbiotico. 
+
+In un sistema acquaponico, l’acqua dalle vasche dei pesci viene pompata ai letti di crescita delle piante, dove viene fitodepurata, per poi tornare di nuovo ai pesci.
+
 I letti di coltivazione delle piante consentono ai batteri di convertire l’ammoniaca, tossica per i pesci, in nitrato assorbibile dalle piante.
 
 L’acquaponica è ecosostenibile perchè utilizza una frazione dell’acqua necessaria per la produzione tradizionale in terra, perché la soluzione nutritiva viene riciclata, perchè non usa fertilizzanti e pesticidi di sintesi e perchè crea pochissimi rifiuti.
