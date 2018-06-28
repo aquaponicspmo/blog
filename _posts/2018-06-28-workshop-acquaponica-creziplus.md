@@ -46,7 +46,7 @@ Programma:
 
 1. Le basi dell’acquaponica: Il ciclo, le differenze tra Acquaponica, idroponica, acquacoltura e IMTA; utilizzo in ambito urbano dell’Acquaponica
 
-2. Riferimenti on line: Il manuale della #FAO, BackyardAquaponics, Aquaguide
+2. Riferimenti on line: Il manuale della FAO, BackyardAquaponics, Aquaguide
 
 3. La bumina: Storia, fasi costruttive della Bumina, assemblaggio di un mini impianto di prova (campana venturi)
 
